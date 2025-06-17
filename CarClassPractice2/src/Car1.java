@@ -1,4 +1,5 @@
 
+//問1：Car1クラスの作成
 public class Car1 {
 	
 	//メンバ変数
